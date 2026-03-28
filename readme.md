@@ -74,8 +74,3 @@ streamlit run app.py
 * Hugging Face
 * Streamlit
 
----
-
-## Connect with Me
-
-Feel free to connect with me on LinkedIn and share your feedback.
